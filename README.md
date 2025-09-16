@@ -102,7 +102,6 @@ Foundry · Brownie · Python · Mocha · Chai · Git · GitHub Actions · Ganach
 ### 📊 GitHub Stats
 
 ![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanramirez2&show_icons=true&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=ivanramirez2&style=flat-square&color=blueviolet)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanramirez2&layout=compact&theme=radical)
 
 ---
