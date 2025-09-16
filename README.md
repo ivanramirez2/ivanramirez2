@@ -1,5 +1,6 @@
 
-<h1 align="center">Hola, soy Iván 👋</h1>
+<!-- Banner opcional con tu nombre/rol (puedes generar uno en canva.com o https://capsule-render.vercel.app/) -->
+![Banner](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Iván%20Ramírez%20Torres&fontSize=40&fontAlignY=35&desc=Blockchain%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=55)
 
 <p align="center">
   <strong>Blockchain Developer | Full Stack Engineer | Smart Contract Enthusiast</strong>
@@ -15,101 +16,105 @@
 
 ### 🧠 Sobre mí
 
-Soy un desarrollador con experiencia en **tecnologías Blockchain y Web3**, especializado en el desarrollo de **smart contracts en Solidity**, integración con **dApps** mediante **Ethers.js**, y despliegue en redes como **Ethereum, Sepolia y Polygon**.
+Soy un **desarrollador Blockchain y Full Stack** con experiencia en:
 
-También tengo experiencia como desarrollador **full stack**, lo que me permite construir soluciones completas Web3: backend, frontend y contratos inteligentes 🔐
+- 🔐 **Smart contracts en Solidity** y estándares ERC20, ERC721, ERC1155  
+- 🌍 Integración de contratos inteligentes en **dApps con React, Ethers.js y MetaMask**  
+- 🚀 Despliegue en **Ethereum, Polygon y testnets (Sepolia, Rinkeby)**  
+- 🌐 Desarrollo **Full Stack** (backend, frontend y Web3 integration)  
 
-- 💻 Apasionado por la descentralización, DeFi, y los contratos inteligentes
-- 🧠 Siempre estoy aprendiendo nuevas herramientas Web3
-- 🤝 Abierto a colaborar en proyectos blockchain
-- 🚀 En búsqueda de oportunidades como **Blockchain Developer**
+✨ Apasionado por la **descentralización, DeFi y Web3**.  
+📚 Siempre explorando nuevas herramientas y frameworks.  
+🤝 Abierto a colaborar en proyectos blockchain innovadores.  
 
 ---
 
 ### 💼 Tecnologías & Herramientas
 
 #### 🧱 Blockchain & Web3
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> 
+</p>
 
-```yaml
-Solidity · Hardhat · Foundry · Ethers.js · Chainlink · Truffle · Web3.js
-OpenZeppelin · ERC20 · ERC721 · ERC1155 · IPFS · MetaMask
-```
+`Solidity · Hardhat · Foundry · Ethers.js · Chainlink · Web3.js · Truffle · OpenZeppelin · IPFS · MetaMask`
+
 #### 🌐 Full Stack & Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+</p>
 
-```yaml
-React · Next.js · JavaScript · Node.js · Express · MongoDB · Firebase · TailwindCSS
-```
+`React · Next.js · Node.js · Express · MongoDB · Firebase · TailwindCSS`
+
 #### 🧪 Testing, DevOps & Infra
+`Foundry · Brownie · Python · Mocha · Chai · Git · GitHub Actions · Ganache · Etherscan APIs`
 
-```yaml
-Foundry · Brownie · Python · Mocha · Chai · Git · GitHub Actions · Ganache · Etherscan APIs
-```
 ---
+
 ### 🚀 Proyectos Destacados
 
----
-
 #### 🎓 HackChain – NFT Platform for Certifications
-
-**Descripción:**
-
 - Plataforma para emitir certificados educativos como NFTs  
-- Contratos inteligentes en Solidity usando el estándar ERC721  
+- Contratos inteligentes en Solidity (ERC721) + librerías OpenZeppelin  
 - Integración con React, MetaMask y Ethers.js  
-- Uso de librerías de seguridad de OpenZeppelin  
-- Tests con Foundry y despliegue en testnet Sepolia
+- Tests con Foundry y despliegue en testnet Sepolia  
 
-**Stack:**  
-`Solidity · React · Ethers.js · Foundry · OpenZeppelin · MetaMask · Sepolia`
-
-**Repositorio:** _Próximamente público o compártelo_
+  
+**Repositorio:** _Próximamente público_  
 
 ---
 
 #### 💸 Fund Me – Decentralized Crowdfunding dApp
-
-**Descripción:**
-
 - Smart contract de financiamiento colectivo en Ethereum  
-- Acepta donaciones solo si superan $50 USD (ETH → USD vía Chainlink)  
-- Pruebas completas (unitarias, de integración, edge cases) con Brownie  
-- Scripts de despliegue automático + verificación en Etherscan  
-- Documentación completa del flujo: testing → deploy → interacción
+- Conversión ETH → USD vía Chainlink (mínimo $50)  
+- Pruebas completas con Brownie (unitarias, integración, edge cases)  
+- Scripts de despliegue + verificación en Etherscan  
 
-**Stack:**  
-`Solidity · Chainlink · Brownie · Python · Rinkeby · Ganache · Etherscan`
 
-**Repositorio:** _Próximamente público o compártelo_
+**Repositorio:** _Próximamente público_  
 
 ---
 
 #### 🪙 HackToken – ERC20 Token Personalizado
+- Token ERC20 estándar con funcionalidades de transferencias, allowances y eventos personalizados  
+- Implementado con OpenZeppelin y desplegado con Hardhat  
+- Incluye tests básicos  
 
-**Descripción:**
-
-- Token ERC20 compatible con todos los estándares de Ethereum  
-- Implementación con OpenZeppelin Contracts  
-- Funcionalidades: transferencias, allowances, eventos personalizados  
-- Despliegue con Hardhat y testing básico
-
-**Stack:**  
-`Solidity · Hardhat · OpenZeppelin · ERC20`
-
-**Repositorio:** _Próximamente público o compártelo_
+ 
+**Repositorio:** _Próximamente público_  
 
 ---
 
 ### 📊 GitHub Stats
 
-![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanramirez2&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanramirez2&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ivanramirez2&show_icons=true&theme=radical" alt="Ivan's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanramirez2&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ivanramirez2&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ivanramirez2&theme=radical&margin-w=10" alt="GitHub Trophies"/>
+</p>
 
 ---
 
 ### 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ivanramireztorres/)
-- 🧑‍💻 [GitHub](https://github.com/ivanramirez2)
-- 📧 [ivanramireztorres@gmail.com](mailto:ivanramireztorres@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ivanramireztorres/)  
+- 🧑‍💻 [GitHub](https://github.com/ivanramirez2)  
+- 📧 [ivanramireztorres@gmail.com](mailto:ivanramireztorres@gmail.com)  
+- 📅 _(Opcional)_ [Agendar reunión en Calendly](https://calendly.com/)  
 
-```
+---
