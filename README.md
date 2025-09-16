@@ -59,40 +59,6 @@ Soy un **desarrollador Blockchain y Full Stack** con experiencia en:
 
 ---
 
-### 🚀 Proyectos Destacados
-
-#### 🎓 HackChain – NFT Platform for Certifications
-- Plataforma para emitir certificados educativos como NFTs  
-- Contratos inteligentes en Solidity (ERC721) + librerías OpenZeppelin  
-- Integración con React, MetaMask y Ethers.js  
-- Tests con Foundry y despliegue en testnet Sepolia  
-
-  
-**Repositorio:** _Próximamente público_  
-
----
-
-#### 💸 Fund Me – Decentralized Crowdfunding dApp
-- Smart contract de financiamiento colectivo en Ethereum  
-- Conversión ETH → USD vía Chainlink (mínimo $50)  
-- Pruebas completas con Brownie (unitarias, integración, edge cases)  
-- Scripts de despliegue + verificación en Etherscan  
-
-
-**Repositorio:** _Próximamente público_  
-
----
-
-#### 🪙 HackToken – ERC20 Token Personalizado
-- Token ERC20 estándar con funcionalidades de transferencias, allowances y eventos personalizados  
-- Implementado con OpenZeppelin y desplegado con Hardhat  
-- Incluye tests básicos  
-
- 
-**Repositorio:** _Próximamente público_  
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
